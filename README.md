@@ -1,1 +1,1 @@
-# Geo-tagged-tweet-collection-and-visualization
+# Geo-tagged Tweet Collection and Visualization
